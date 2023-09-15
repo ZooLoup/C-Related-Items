@@ -1,2 +1,3 @@
-﻿  game.c
-  五子棋.vcxproj -> D:\Program Files\C project\五子棋\x64\Debug\三子棋.exe
+﻿  test.c
+D:\Program Files\C project\三子棋\五子棋\test.c(17,17): warning C4133: “函数”: 从“char [3][3]”到“int (*)[3]”的类型不兼容
+  五子棋.vcxproj -> D:\Program Files\C project\三子棋\x64\Debug\三子棋.exe
