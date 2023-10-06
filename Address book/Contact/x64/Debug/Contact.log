@@ -1,0 +1,8 @@
+﻿  contact.c
+D:\Program Files\C project\Contact\Contact\contact.c(20,9): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+D:\Program Files\C project\Contact\Contact\contact.c(45,11): warning C4477: “printf”: 格式字符串“%4s”需要类型“char *”的参数，但可变参数 2 拥有了类型“const int”
+D:\Program Files\C project\Contact\Contact\contact.c(45,11): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "const int" 的参数 2 冲突
+  test.c
+D:\Program Files\C project\Contact\Contact\test.c(28,21): warning C4020: “AddContact”: 实参太多
+  正在生成代码...
+  Contact.vcxproj -> D:\Program Files\C project\Contact\x64\Debug\Contact.exe
