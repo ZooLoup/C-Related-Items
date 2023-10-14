@@ -1,0 +1,12 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Contact.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  contact.c
+D:\Program Files\C project\File Address book(dynamic)\Contact\contact.c(69,8): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+D:\Program Files\C project\File Address book(dynamic)\Contact\contact.c(113,11): warning C4477: “printf”: 格式字符串“%4s”需要类型“char *”的参数，但可变参数 2 拥有了类型“int”
+D:\Program Files\C project\File Address book(dynamic)\Contact\contact.c(113,11): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "int" 的参数 2 冲突
+D:\Program Files\C project\File Address book(dynamic)\Contact\contact.c(175,42): warning C4028: 形参 1 与声明不同
+D:\Program Files\C project\File Address book(dynamic)\Contact\contact.c(189,10): warning C4477: “printf”: 格式字符串“%4s”需要类型“char *”的参数，但可变参数 2 拥有了类型“int”
+D:\Program Files\C project\File Address book(dynamic)\Contact\contact.c(189,10): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "int" 的参数 2 冲突
+D:\Program Files\C project\File Address book(dynamic)\Contact\contact.c(212,10): warning C4477: “printf”: 格式字符串“%4s”需要类型“char *”的参数，但可变参数 2 拥有了类型“int”
+D:\Program Files\C project\File Address book(dynamic)\Contact\contact.c(212,10): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "int" 的参数 2 冲突
+D:\Program Files\C project\File Address book(dynamic)\Contact\contact.c(236,11): warning C4098: “SaveContact”:“void”函数返回值
+  Contact.vcxproj -> D:\Program Files\C project\File Address book(dynamic)\x64\Debug\Contact_Dynamic.exe
